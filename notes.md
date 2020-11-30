@@ -44,7 +44,7 @@ TRANSPARENCY - outcomes -> INSPECTION - feedback -> Adaptation -> ....
 - Inspection: Examination of work
 - Adaptation: 
 
-#### Scrum Framework
+### Scrum Framework
 
 Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 
@@ -52,7 +52,7 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 - Events: Tools
 - Artifacts: Techniques
 
-##### Scrum Values
+#### Scrum Values
 
 - Courage
 - Focus
@@ -60,13 +60,13 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 - Respect
 - Openness
 
-##### Roles
+#### Roles
 
 - Product Owner: Business/Domain Expert. Person who decides the priority of what the team should work on
 - Development Team: Team who actually puts work into the tasks during the sprint
 - Scrum Master: Guide to keep the teams in sync and keeps the team on track
 
-##### Events
+#### Events
 
 - Sprint (The timebox of work)
 - Sprint Planning (decide what will happen during the sprint)
@@ -74,17 +74,17 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 - Sprint Review (demo to stakeholders and get feedback)
 - Sprint Retrospective (Product owner, development team and scrum master only)
 
-##### Artifacts
+#### Artifacts
 
 - Product Backlog (Overall tasks for the product)
 - Sprint Backlog (Tasks to be completed during the sprint)
 - Product Increment (what is delivered)
 
-##### Inspect and Adapt Activity
+#### Inspect and Adapt Activity
 
 - Backlog Refinement (Happens at whatever interval the team wants. Must have development team and product owner)
 
-#### Product Backlog
+### Product Backlog
 
 - PBI: Product backlog items
 - Product owners are responsible for maintaining the the product backlog
