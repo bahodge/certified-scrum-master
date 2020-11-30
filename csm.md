@@ -28,10 +28,10 @@ Page 4. Agile principles and values
 
 #### Values
 
-Individuals and interactions **OVER** processes and tools
-Responding to change **OVER** following a plan
-working software **OVER** comprehensive documentation
-Customer collaboration **OVER** contract negotiation
+- Individuals and interactions **OVER** processes and tools
+- Responding to change **OVER** following a plan
+- working software **OVER** comprehensive documentation
+- Customer collaboration **OVER** contract negotiation
 
 #### Empirical Process
 
@@ -87,7 +87,7 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 
 - PBI: Product backlog items
 - Product owners are responsible for maintaining the the product backlog
-- `DEEP`
+- Product Backlog should implement `DEEP`
   - Detailed Appropriately
   - Emergent: Dynamically evolving
   - Estimated: By the development team
@@ -148,3 +148,31 @@ Invisible to most of the stakeholders. It is generated every time the team takes
 - Attends all scrum events
 - Better to have dedicated
 - Should encourage the team to crosstrain
+
+### Scrum Master
+
+- Wears many hats
+  - Servant leader
+  - Coach
+  - Impedement remover/Enabler
+  - Shield team from interruptions
+  - Facilitator (neutral)
+    - Could you live with X for now?
+    - Is this enough to gather feedback?
+    - Which could we do first?
+    - Can we use a dependency mock to keep moving?
+    - Run Effective meetings
+    - Fist to 5. How confident is everyone?
+- Leading through influence. Does not typically have authority over any team member
+- Non authoritative verbiage
+
+DO:
+
+- Encourage experimentation
+- Access to decision makers
+- Address Issues
+
+DONT:
+
+- Not the team's tool updator
+- Not the note taker
