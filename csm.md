@@ -325,3 +325,46 @@ Timebox: Up to 3 hours / 1 month sprint
 - Generic checklist that all PBIs must adhere to
 
 ## User Stories
+
+A technique of writing requirements from the perspective of a user. Use the 3 "C"s of User Stories. Card, Conversation and Confirmation. The user stories should be plain english and only explain the what and the why. It should not go over the how at all.
+
+- Card: Written on a card
+- Conversation: Details capture in conversations
+- Confirmation: Acceptence criteria to confirm the story is done
+
+### Definition of Done vs Acceptance Criteria
+
+- Definition of done
+  - Dev Team perspective
+  - Building it the Right way
+  - Applicable to most User Stories
+- Acceptance Criteria
+  - Product Owner Perspective
+  - Building the Right thing
+  - Unique for every User Story
+
+## Relative Estimation
+
+- People are better at comparing rather than giving absolute values
+- There are different methods
+  - T Shirt Sizes
+  - Planning Poker
+  - Fist of 5
+- Estimation should be done as a team
+- Record the number of points taken & completed per sprint
+  - Track your progress as a TEAM not as an individual
+  - People should not feel singled out for taking less points
+  - People should be encouraged to be honest in the level of effort required
+
+## Before First Sprint
+
+- Create Product Backlog
+- Decide Sprint length
+- Decide on the first day of the sprint
+- Create definition of done
+- Decide estimation scale
+- Get agreement from stakeholders
+- Educate everyone onr roles and responsibilities
+- Visualize work
+- Schedule scrum events
+- Create team working agreement
