@@ -1,5 +1,7 @@
 # Certified Scrum Master
 
+////////////////////////////////// Day 1 //////////////////////////////////
+
 ## Agile
 
 There is no "doing agile" it is "being agile". Being able to adapt to changes. A change in the mindset.
@@ -9,7 +11,7 @@ There is no "doing agile" it is "being agile". Being able to adapt to changes. A
 - Product Backlog
   - Everything goes here, this is a product wishlist.
 - Burndown Chart
-  - A way to measure progress through the sprint. This should be updated by the development team.
+  - A way to measure progress through the sprint. This should be updated by the Development Team.
 - Waterfall Method
   - Works great with known requirements. Terrible at unknown requirements.
 - Empirical Process
@@ -41,7 +43,7 @@ TRANSPARENCY - outcomes -> INSPECTION - feedback -> Adaptation -> ....
 
 - Transparency: Team commits to being transparent on what work must be done
 - Inspection: Examination of work
-- Adaptation: 
+- Adaptation: Changing the approach to solving an issue
 
 ### Scrum Framework
 
@@ -71,7 +73,7 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 - Sprint Planning (decide what will happen during the sprint)
 - Daily Scrum (what work will happen for the day)
 - Sprint Review (demo to stakeholders and get feedback)
-- Sprint Retrospective (Product owner, development team and scrum master only)
+- Sprint Retrospective (Product owner, Development Team and scrum master only)
 
 #### Artifacts
 
@@ -81,16 +83,16 @@ Was developed 25 Years ago. 3 Roles, 5 Events & 3 Artifacts
 
 #### Inspect and Adapt Activity
 
-- Backlog Refinement (Happens at whatever interval the team wants. Must have development team and product owner)
+- Backlog Refinement (Happens at whatever interval the team wants. Must have Development Team and product owner)
 
-### Product Backlog
+### What is the Product Backlog
 
 - PBI: Product backlog items
 - Product owners are responsible for maintaining the the product backlog
 - Product Backlog should implement `DEEP`
   - Detailed Appropriately
   - Emergent: Dynamically evolving
-  - Estimated: By the development team
+  - Estimated: By the Development Team
   - Priority: Where does it fall in the priority tree
 - Every PBI should have the `DOVE` template
   - Detailed description
@@ -133,7 +135,7 @@ Invisible to most of the stakeholders. It is generated every time the team takes
 
 ### Development Team Member
 
-- There are no sub teams within the development team.
+- There are no sub teams within the Development Team.
 - Every sprint, create a working functionality
 - Try to create a potentially releasable increment
 - Build cross functionality between team members
@@ -176,3 +178,150 @@ DONT:
 
 - Not the team's tool updator
 - Not the note taker
+
+////////////////////////////////// Day 2 //////////////////////////////////
+
+## Scrum Events
+
+### Scrum Events Quiz
+
+Q: How many scrum events are there?
+A: 5
+
+Q: Is a product owner supposed to participate in sprint planning?
+A: Yes
+
+Q: What is the purpose of the Daily Scrum
+A: To plan the next 24 hours
+
+Q: Can sprint review & sprint retrospective be combined?
+A: No
+
+Q: When should a retrospective be conducted?
+A: At the end of the sprint after the sprint review
+
+### Sprint
+
+- The heart of scrum
+- Is a time box no longer than one month
+- Goal is to have a potentially releaseable product increment by the end
+- During the sprint
+  - No changes are made that would endanger the sprint goal
+  - Quality goals do not decrese
+  - Scope may be clarified and renegotiated
+
+### Sprint Planning
+
+Timebox: Up to 8 hours/1 month long sprint
+
+- Scrum Master
+  - Team discusses the latest product increment
+  - Team discusses past performance
+  - Projected capacity for this sprint (timeoff, vacation or sick)
+- Product Owner
+  - Provide the "what" to the team
+  - Brings the prioritized product backlog
+- Development Team
+  - Discuss the "how" to implement
+  - The Development Team pulls PBIs into the Sprint Backlog
+- The Scrum Team
+  - Determine the Sprint Goal
+  - Together team agrees on new PBIs
+  - Keeps some backup items
+  - Single out forced requests to remain transparent and show what you've had to waste time on
+- PBIs
+  - Should be plain english for the task
+  - The Development Team will go in and add the sub tasks as technically detailed as possible/needed
+  - Clearly mark stretch goal tasks.
+  - This should be the primary point in when the PBIs are estimated and subtasks are created
+
+### Daily Scrum
+
+Timebox: Up to 15 minutes / day
+
+- Development Team & Product Owner "huddle up"
+- Should be the same time every day. Same place.
+- Not a status meeting
+- Team should review the sprint goal, burndown chart and impediment
+- Three question format
+  - What did I do yesterday that helped the Development Team meet the sprint goal?
+  - What will I do today to help the Development Team meet the sprint goal?
+  - Do I see any impediment that prevents me or the developmenet team from meeting the sprint goal?
+- Every team member MUST participate
+- Team members should stay focused
+- Can be Open Discussion Format
+- Walk the Wall
+  - Looking at the sprint board and and sync up all the things
+- Missing the daily scrum
+  - You lose tracking of the impediments for team members
+  - You lose what is happening for the next 24 hours
+
+### Sprint Review
+
+Timebox: is up to 4 hours / 1 month sprint
+
+- Happens on the last day of the sprint
+- Participants include:
+  - Product Owner
+  - Dev Team
+  - Stakeholders
+  - Clients
+  - Users
+  - Scrum Master
+- Review sessions help you fail fast to adapt quickly
+- Excellent source of feedback
+
+### Sprint Retrospective
+
+Timebox: Up to 3 hours / 1 month sprint
+
+- Participants include:
+  - Product Owner
+  - Development Team
+  - Scrum Master
+- Team discusses how the sprint went right, wrong and what to continue doing
+- Team members should ALL participate.
+- All team members should feel free to talk and not feel "silenced"
+
+### Backlog Refinement
+
+- Product Owner meets with the Development Team
+- Team discusses what PBIs should be focused on for the UPCOMING sprint.
+- Every PBI should follow `DOVE`.
+  - Team adds to every PBI
+  - Team notifies Product Owner of any dependencies
+  - Product owners should always push for items that are the most valuable for the organization
+  - Estimate the level of effort
+  - Should occur as often as the team needs
+
+## Scrum Artifacts
+
+### Product Backlog
+
+- Who is the Owner? Product Owner
+- Items in it are called? PBIs
+- How often can order change? As often as needed
+- Who contributes to the product backlog? Everybody
+- When are items added? Anytime
+
+### Sprint Backlog
+
+- What is it? PBIs and tasks forcasted for the sprint
+- Who owns the Sprint Backlog? The Development Team
+- Who decides to add/remove tasks during sprint? The Development Team
+- Who decides to add/remove PBIs during sprint? The Development Team and the Product owner
+
+### Product Increment
+
+- What is it? The working functionallity that is done and useable
+- When is it considered completed? When it meets the definition of done
+- It is a step toward? An overall vision or a goal
+- Who decides to release a Product Increment? Product Owner
+
+## Definition of done
+
+- The development team is responsible for defining the quality
+- Should be a checklist of tasks that must be completed before you can agree that it is done
+- Generic checklist that all PBIs must adhere to
+
+## User Stories
